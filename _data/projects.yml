@@ -13,9 +13,9 @@
                   postgresql-plain,
                   heroku-original
                 ]
-  cover: /assets/images/project_covers/DBF 2019 Team Picture.jpg
+  cover: /assets/images/project_covers/DBF-2019-Team-Picture.jpg
   images: [
-    '/assets/images/project_images/DBF 2019 Team Picture.jpg'
+    '/assets/images/project_images/DBF-2019-Team-Picture.jpg'
   ]
 
 - id: 3
